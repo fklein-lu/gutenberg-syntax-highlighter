@@ -1,0 +1,10 @@
+{
+    "name": "frankklein/gutenberg-syntax-highlighter",
+    "description": "A WordPress plugin that extends Gutenberg's code block to add optional syntax highlighting.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "humanmade/coding-standards": "^0.5.0"
+    },
+    "license": "GPL2+",
+    "minimum-stability": "stable"
+}
